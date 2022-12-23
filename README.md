@@ -1,2 +1,2 @@
 # Mnist_classify
-Mnist handwritten letters and digits for university project
+Mnist handwritten letters and digits classifiers for university project
